@@ -38,9 +38,9 @@ export default function Layout({ children }) {
         <ArticlesProvider>
           <Head title={title} description={description} author={author} />
           <Header title={title} />
-          <Container maxWidth="lg">
-            <Box marginTop={20}>{children}</Box>
-          </Container>
+          <Box marginTop={20}>
+            <Container maxWidth="lg">{children}</Container>
+          </Box>
         </ArticlesProvider>
       </LayoutProvider>
     </>
