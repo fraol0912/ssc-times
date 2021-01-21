@@ -15,8 +15,6 @@ collections:
     folder: "content/articles"
     create: true
     slug: "{{slug}}"
-    editor:
-      preview: false
     fields:
       - { label: "Article Tag", name: "tag", widget: "string" }
       - { label: "Article Title", name: "title", widget: "string" }

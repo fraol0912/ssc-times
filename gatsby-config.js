@@ -2,6 +2,7 @@ const path = require("path");
 
 const ARTICLES_DIR = path.join(__dirname, "content", "articles");
 const IMAGES_DIR = path.join(__dirname, "content", "assets");
+const CMS_FILE = path.join(__dirname, "src", "cms", "cms.ts");
 
 module.exports = {
   siteMetadata: {
@@ -47,6 +48,11 @@ module.exports = {
         ],
       },
     },
-    "gatsby-plugin-netlify-cms",
+    {
+      resolve: "gatsby-plugin-netlify-cms",
+      options: {
+        modulePath: CMS_FILE,
+      },
+    },
   ],
 };
