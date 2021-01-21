@@ -7,7 +7,7 @@ backend:
     delete: "Delete {{collection}} “{{slug}}”"
 
 media_folder: content/assets
-public_folder: /static
+public_folder: /
 
 collections:
   - name: "articles"

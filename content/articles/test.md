@@ -5,6 +5,7 @@ image: /static/gatsby-icon.png
 imageAlt: gatsby ico
 description: a test article
 author: Fraol
-articlePic: /static/profile-pic.jpg
+articlePic: /profile-pic.jpg
 ---
+
 # Howdy People
