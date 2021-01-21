@@ -11,11 +11,10 @@ public_folder: /static
 
 collections:
   - name: "articles"
-    label: "Articles"
+    label: "Article"
     folder: "content/articles"
     create: true
     slug: "{{slug}}"
-    path: ""
     editor:
       preview: false
     fields:
