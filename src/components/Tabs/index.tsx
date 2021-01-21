@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme: Theme) => ({
 }));
 
 interface Props {
-  tabs: { label: string }[];
+  tabs: string[];
 }
 
 export default function TabsList({ tabs }: Props) {
@@ -44,7 +44,7 @@ export default function TabsList({ tabs }: Props) {
         scrollButtons="on"
         aria-label="scrollable auto tabs example"
       >
-        {tabs.map(({ label }, index) => {
+        {tabs.map((label, index) => {
           return <Tab label={`#${label}`} {...a11yProps(label)} key={index} />;
         })}
       </Tabs>

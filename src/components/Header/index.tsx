@@ -29,13 +29,9 @@ export default function Header({ title }: Props): JSX.Element {
 
   const { articles } = useArticlesStore();
 
-  const tabs = [
-    ...new Set<{ label: string }>(
-      articles.map(article => {
-        return { label: article.tag };
-      })
-    ),
-  ];
+  const tabs = [...new Set<string>(articles.map(article => article.tag))];
+
+  console.log(tabs);
 
   return (
     <div className={classes.root}>
