@@ -1,13 +1,10 @@
 import React from "react";
 
-// hooks
-import { Article } from "../../hooks/useArticlesStore";
-
 // components
 import ArticlePage from "../../components/ArticlePage";
 
 export default function BlogPagePreview({ entry, widgetFor, getAsset }) {
-  const article: Article = {
+  const article = {
     title: entry.getIn(["data", "title"]),
     description: entry.getIn(["data", "description"]),
     date: entry.getIn(["data", "date"]),
