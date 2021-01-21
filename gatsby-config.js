@@ -10,6 +10,7 @@ module.exports = {
     author: "Fraol Lemecha",
   },
   plugins: [
+    "gatsby-plugin-material-ui",
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",
