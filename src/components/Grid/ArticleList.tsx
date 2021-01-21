@@ -33,7 +33,7 @@ export default function ArticleList({ articles, tag }: Props) {
         aria-labelledby={`scrollable-auto-tab-${tag}`}
         className={classes.root}
       >
-        <Grid container spacing={5}>
+        <Grid container spacing={15}>
           {articles
             .filter(article => article.tag === tag)
             .map(article => (
