@@ -2,7 +2,7 @@ const path = require("path");
 
 const ARTICLES_DIR = path.join(__dirname, "content", "articles");
 const IMAGES_DIR = path.join(__dirname, "content", "assets");
-const CMS_FILE = path.join(__dirname, "src", "cms", "cms.ts");
+const CMS_FILE = path.join(__dirname, "src", "cms", "cms.js");
 
 module.exports = {
   siteMetadata: {
