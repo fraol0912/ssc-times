@@ -26,7 +26,7 @@ export default function ArticleList({ articles, tag }: Props) {
   const classes = useStyles();
 
   return (
-    <Box marginTop={15}>
+    <Box marginTop={100}>
       <div
         role="tabpanel"
         id={`scrollable-auto-tabpanel-${tag}`}
