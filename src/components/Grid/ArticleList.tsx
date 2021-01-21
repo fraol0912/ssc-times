@@ -26,14 +26,14 @@ export default function ArticleList({ articles, tag }: Props) {
   const classes = useStyles();
 
   return (
-    <Box marginTop={5}>
+    <Box marginTop={15}>
       <div
         role="tabpanel"
         id={`scrollable-auto-tabpanel-${tag}`}
         aria-labelledby={`scrollable-auto-tab-${tag}`}
         className={classes.root}
       >
-        <Grid container spacing={15}>
+        <Grid container spacing={5}>
           {articles
             .filter(article => article.tag === tag)
             .map(article => (
