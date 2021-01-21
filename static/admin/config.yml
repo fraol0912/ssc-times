@@ -28,5 +28,5 @@ collections:
         }
       - { label: "Article Description", name: "description", widget: "string" }
       - { label: "Article Author", name: "author", widget: "string" }
-      - { label: "Article Picture", name: "articlePic", widget: "image" }
+      - { label: "Author Picture", name: "authorPic", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
