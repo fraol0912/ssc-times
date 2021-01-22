@@ -33,7 +33,7 @@ export default function ArticleList({ articles, tag }: Props) {
     >
       <Grid container spacing={5}>
         {articles
-          .filter(article => article.tag === tag)
+          .filter(article => article.tag.toLowerCase() === tag.toLowerCase())
           .map(article => (
             <Grid item xs={12} sm={6} md={4} key={article.id}>
               <ArticleCard article={article} />

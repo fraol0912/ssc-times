@@ -31,8 +31,6 @@ export default function Header({ title }: Props): JSX.Element {
 
   const tabs = [...new Set<string>(articles.map(article => article.tag))];
 
-  console.log(tabs);
-
   return (
     <div className={classes.root}>
       <AppBar position="fixed">
