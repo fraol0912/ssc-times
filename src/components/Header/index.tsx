@@ -1,10 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import { createStyles, makeStyles, Theme } from "@material-ui/core/styles";
-import { AppBar, Toolbar, Typography, Avatar } from "@material-ui/core";
-
-// @ts-ignore
-import logo from "../../logo.png";
+import { AppBar, Toolbar, Typography } from "@material-ui/core";
 
 // Components
 import Tabs from "../Tabs";
@@ -19,11 +16,6 @@ const useStyles = makeStyles((theme: Theme) =>
     },
     title: {
       flexGrow: 1,
-    },
-    largeLogo: {
-      width: theme.spacing(5),
-      height: theme.spacing(5),
-      marginRight: theme.spacing(4),
     },
   })
 );
@@ -43,7 +35,6 @@ export default function Header({ title }: Props): JSX.Element {
     <div className={classes.root}>
       <AppBar position="fixed">
         <Toolbar>
-          <Avatar src={logo} className={classes.largeLogo} />
           <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
             <Typography variant="h5" className={classes.title}>
               {title}

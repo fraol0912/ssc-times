@@ -50,5 +50,23 @@ module.exports = {
       },
     },
     "gatsby-plugin-netlify-cms",
+    {
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "SSC TIMES",
+        short_name: "SSC TIMES",
+        start_url: "/",
+        background_color: "#000",
+        theme_color: "#000",
+        display: "standalone",
+        icon: "src/logo.png",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-offline",
+      options: {
+        precachePages: [`/`, `/*`],
+      },
+    },
   ],
 };
