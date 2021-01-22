@@ -22,19 +22,13 @@ const query = graphql`
           }
           frontmatter {
             tag
-            author
-            date(fromNow: true)
             description
             title
-            authorPic {
-              publicURL
-            }
             image {
               publicURL
             }
             imageAlt
           }
-          html
         }
       }
     }
@@ -52,19 +46,13 @@ export default function ArticleGrid(): JSX.Element {
           };
           frontmatter: {
             tag: string;
-            author: string;
-            date: string;
             description: string;
             title: string;
-            authorPic: {
-              publicURL: string;
-            };
             image: {
               publicURL: string;
             };
             imageAlt: string;
           };
-          html: string;
         };
       }[];
     };
@@ -82,10 +70,8 @@ export default function ArticleGrid(): JSX.Element {
       return {
         ...node.frontmatter,
         id: node.id,
-        html: node.html,
         slug: node.fields.slug,
-        image: node.frontmatter.image.publicURL,
-        authorPic: node.frontmatter.authorPic.publicURL,
+        image: node.frontmatter.image?.publicURL,
       };
     });
 

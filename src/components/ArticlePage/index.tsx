@@ -3,7 +3,7 @@ import { makeStyles, Theme, createStyles } from "@material-ui/core/styles";
 import { Typography, Avatar, Box, Container } from "@material-ui/core";
 import { lightGreen } from "@material-ui/core/colors";
 
-import { Article } from "../../hooks/useArticlesStore";
+import { ArticlePage } from "../../hooks/useArticlesStore";
 
 // Components
 import Layout from "../Layout";
@@ -19,10 +19,10 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 
 interface Props {
-  article: Article;
+  article: ArticlePage;
 }
 
-export default function ArticlePage({ article }: Props) {
+export default function ArticlePageComponent({ article }: Props) {
   const classes = useStyles();
 
   return (

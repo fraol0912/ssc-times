@@ -1,17 +1,24 @@
 import makeStore from "../store";
 
-export interface Article {
-  id: string;
+export interface ArticlePage {
   html: string;
   tag: string;
   author: string;
   date: string;
-  description: string;
   title: string;
   authorPic: string;
   image: string;
   imageAlt: string;
+}
+
+export interface Article {
+  description: string;
+  imageAlt: string;
+  image: string;
+  title: string;
   slug: string;
+  tag: string;
+  id: string;
 }
 
 interface ArticlesState {
