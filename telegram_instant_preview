@@ -1,0 +1,13 @@
+~version: "2.0"
+
+?path: /.+
+
+$article: //*[@id="article_body"]
+
+@remove: $article//img
+
+title: //*[@id="article_title"]
+body: $article
+author: //*[@id="article_author"]
+image_url: //*[@id="article_image"]/@src
+published_date: //*[@id="article_date"]
