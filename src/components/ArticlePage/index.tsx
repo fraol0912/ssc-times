@@ -28,14 +28,18 @@ export default function ArticlePage({ article }: Props) {
   return (
     <Layout>
       <Box textAlign="center">
-        <img src={article.image} style={{ width: "100%" }} />
+        <img src={article.image} style={{ width: "100%" }} id="article_image" />
       </Box>
       <Typography variant="subtitle1">
-        <strong>#{article.tag}</strong>
+        <strong id="article_tag">#{article.tag}</strong>
       </Typography>
-      <Typography variant="subtitle1">{article.date}</Typography>
+      <Typography variant="subtitle1" id="article_date">
+        {article.date}
+      </Typography>
       <Box my={5}>
-        <Typography variant="h3">{article.title}</Typography>
+        <Typography variant="h3" id="article_title">
+          {article.title}
+        </Typography>
       </Box>
       <Box
         style={{
@@ -56,7 +60,7 @@ export default function ArticlePage({ article }: Props) {
             .join("")}
         </Avatar>
         <p>by</p>
-        <strong>{article.author}</strong>
+        <strong id="article_author">{article.author}</strong>
       </Box>
       <Container maxWidth="lg">
         <Box
@@ -67,6 +71,7 @@ export default function ArticlePage({ article }: Props) {
             fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
             fontSize: "1.2rem",
           }}
+          id="article_body"
         />
       </Container>
     </Layout>
