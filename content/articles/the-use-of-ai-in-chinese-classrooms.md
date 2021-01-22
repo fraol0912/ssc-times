@@ -1,0 +1,16 @@
+---
+tag: science
+title: THE USE OF AI IN CHINESE CLASSROOMS
+image: /ai.png
+imageAlt: AI
+date: 2021-01-22T02:01:30.886Z
+description: China is a country that has shown a growing interest in being a
+  global leader in the AI industry.
+author: Nuhamin Kifle
+authorPic: /ai.png
+---
+China is a country that has shown a growing interest in being a global leader in the AI industry. In an attempt to do so the country has introduced a method of buying and selling by the use of facial identifications, the country had also installed high tech devices that monitor citizens now this AI innovation has moved to classrooms. Classrooms are being equipped with robots and high-tech cameras that track the students’ health, take attendances, and the number of times the students check their phones or the number of times that the students yawn during class. The students also were uniforms that track where the students are at all times. There are also headbands that are used by the students known as electroencephalography(EEG) that track the students’ concentration during class and sends a report to the teacher that can also be shared with parents. this device has sparked controversy across china after an article published by the Wall Street Journal entitled “China’s Efforts to Lead the Way in AI Start in Its Classrooms,”.\
+The data from these devices is also being used to facilitate researches that are being conducted on how artificial intelligence can be used in classrooms. These headbands are also said to produce false information if are not properly worn. They could also cause inflammation and itching.\
+There was a discrepancy of views on the usage on the use of EEGs in classrooms while many people online went against it saying that it is immoral to use these headbands on students and that the headbands, uniforms, and camera are violating the students’ privacy. Some parents, parents, students, and teachers have said that this helps the students concentrate more in class and this method has helped some students raise their scores while other students have found it very stressful because their results are being sent to their parents. Many have also wanted to know where the data collected from these classrooms go. A staff member at Jindong District Education Bureau of Jinhua City said that headband data collected is used only inside the school. “Background data is only designed for teacher’s analysis and improving their teaching methodologies.” He added that the headband is not worn every day, but once a week. “Students are free to use the headband. Parents also recognize this, and this has not caused any adverse reactions among the students.” Many parents have also stated that they don’t really care where the information goes as long as the Data is being used for the research and development of China.\
+\
+On October 31, less than a week after the headband news surfaced, the education bureau in Jinhua City, Zhejiang Province abruptly announced that it had ordered its schools to unbuckle their headbands.
