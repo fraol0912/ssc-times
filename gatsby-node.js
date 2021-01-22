@@ -5,7 +5,7 @@ const BLOG_TEMPLATE = path.join(
   __dirname,
   "src",
   "templates",
-  "BlogTemplate.tsx"
+  "ArticleTemplate.tsx"
 );
 
 exports.createPages = async ({ graphql, actions, reporter }) => {

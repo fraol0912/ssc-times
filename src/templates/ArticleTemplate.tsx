@@ -35,11 +35,11 @@ interface Props {
   };
 }
 
-export default function BlogTemplate({ data }: Props) {
+export default function ArticleTemplate({ data }: Props) {
   const article: Article = {
     ...data.markdownRemark.frontmatter,
-    authorPic: data.markdownRemark.frontmatter.authorPic.publicURL,
-    image: data.markdownRemark.frontmatter.image.publicURL,
+    authorPic: data.markdownRemark.frontmatter.authorPic?.publicURL,
+    image: data.markdownRemark.frontmatter.image?.publicURL,
     html: data.markdownRemark.html,
     id: data.markdownRemark.id,
     slug: data.markdownRemark.fields.slug,
@@ -60,7 +60,7 @@ export const pageQuery = graphql`
         authorPic {
           publicURL
         }
-        date(fromNow: true)
+        date(formatString: "ddd, MMM DD, YYYY")
         description
         image {
           publicURL

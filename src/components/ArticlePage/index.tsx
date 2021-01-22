@@ -1,16 +1,30 @@
 import React from "react";
+import { makeStyles, Theme, createStyles } from "@material-ui/core/styles";
 import { Typography, Avatar, Box, Container } from "@material-ui/core";
+import { lightGreen } from "@material-ui/core/colors";
 
 import { Article } from "../../hooks/useArticlesStore";
 
 // Components
 import Layout from "../Layout";
 
+const useStyles = makeStyles((theme: Theme) =>
+  createStyles({
+    greenAvatar: {
+      color: theme.palette.getContrastText(lightGreen[500]),
+      backgroundColor: lightGreen[500],
+      margin: theme.spacing(1),
+    },
+  })
+);
+
 interface Props {
   article: Article;
 }
 
-export default function index({ article }: Props) {
+export default function ArticlePage({ article }: Props) {
+  const classes = useStyles();
+
   return (
     <Layout>
       <Box textAlign="center">
@@ -25,7 +39,7 @@ export default function index({ article }: Props) {
       </Box>
       <Box
         style={{
-          width: "190px",
+          width: "200px",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
@@ -34,9 +48,15 @@ export default function index({ article }: Props) {
         <Avatar
           alt={article.author}
           src={article.authorPic}
-          style={{ display: "inline-block" }}
-        />{" "}
-        by <strong>{article.author}</strong>
+          className={classes.greenAvatar}
+        >
+          {article.author
+            .split(" ")
+            .map(word => word[0])
+            .join("")}
+        </Avatar>
+        <p>by</p>
+        <strong>{article.author}</strong>
       </Box>
       <Container maxWidth="lg">
         <Box

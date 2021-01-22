@@ -34,18 +34,22 @@ export default function TabsList({ tabs }: Props) {
 
   return (
     <div className={classes.root}>
-      <Tabs
-        value={tab}
-        onChange={handleChange}
-        indicatorColor="primary"
-        variant="scrollable"
-        scrollButtons="on"
-        aria-label="scrollable auto tabs example"
-      >
-        {tabs.map((label, index) => {
-          return <Tab label={`#${label}`} {...a11yProps(label)} key={index} />;
-        })}
-      </Tabs>
+      {tabs.length !== 0 ? (
+        <Tabs
+          value={tab}
+          onChange={handleChange}
+          indicatorColor="primary"
+          variant="scrollable"
+          scrollButtons="on"
+          aria-label="scrollable auto tabs example"
+        >
+          {tabs.map((label, index) => {
+            return (
+              <Tab label={`#${label}`} {...a11yProps(label)} key={index} />
+            );
+          })}
+        </Tabs>
+      ) : null}
     </div>
   );
 }
