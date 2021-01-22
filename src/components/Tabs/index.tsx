@@ -16,7 +16,6 @@ const useStyles = makeStyles((theme: Theme) => ({
   root: {
     flexGrow: 1,
     width: "100%",
-    backgroundColor: theme.palette.background.paper,
   },
 }));
 
@@ -39,7 +38,6 @@ export default function TabsList({ tabs }: Props) {
         value={tab}
         onChange={handleChange}
         indicatorColor="primary"
-        textColor="primary"
         variant="scrollable"
         scrollButtons="on"
         aria-label="scrollable auto tabs example"
