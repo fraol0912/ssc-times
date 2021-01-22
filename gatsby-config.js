@@ -7,7 +7,8 @@ const CMS_FILE = path.join(__dirname, "src", "cms", "cms.js");
 module.exports = {
   siteMetadata: {
     title: "SSC TIMES",
-    description: "The website for ssc times digital newspaper.",
+    description:
+      "Digital newspaper of Kotebe Metropolitan University Menelic I Science Shared Campus.",
     author: "Fraol Lemecha",
   },
   plugins: [
