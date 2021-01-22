@@ -13,7 +13,7 @@ import { useLayoutStore } from "../../hooks/useLayoutStore";
 
 const query = graphql`
   {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: { fields: frontmatter___date }) {
       edges {
         node {
           id
