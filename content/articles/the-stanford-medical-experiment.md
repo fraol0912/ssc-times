@@ -3,6 +3,7 @@ tag: science
 title: The Stanford medical experiment
 image: /standford.jpeg
 imageAlt: stanford medical experiment
+date: 2021-01-22T01:58:54.354Z
 description: The Stanford prison experiment conducted by Stanford University
   psychology professor Philip Zimbardo included 18 participants,all-male, who
   had responded to a classified ad in a newspaper that was in quest of people
