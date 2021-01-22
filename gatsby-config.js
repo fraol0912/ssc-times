@@ -48,11 +48,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: CMS_FILE,
-      },
-    },
+    "gatsby-plugin-netlify-cms",
   ],
 };
