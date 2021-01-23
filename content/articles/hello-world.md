@@ -38,8 +38,6 @@ const saltyDuckEgg = "chinese preserved food product";
 | 2      | Harry Potter and the Chamber of Secrets  | 2002 |
 | 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
-
 This is a paragraph.
 
     This is a paragraph.
@@ -97,7 +95,8 @@ This is a paragraph.
 > viverra nec, fringilla in, laoreet vitae, risus.
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam h
-> endrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> endrerit mi posuere lectus. Vestibulum enim wisi, viverra nec,
+> fringilla in, laoreet vitae, risus.
 
 > ## This is a header.
 >
@@ -108,14 +107,6 @@ This is a paragraph.
 >
 >     Markdown.generate();
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
 - Red
 - Green
 - Blue
@@ -167,16 +158,6 @@ This is a paragraph.
 1. `code goes` here in this line
 1. **bold** goes here
 ```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
 
 ---
 
@@ -206,14 +187,6 @@ This is [an example][id] reference-style link.
 
 [id]: http://example.com "Optional Title"
 
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
 _single asterisks_
 
 _single underscores_
@@ -222,18 +195,6 @@ _single underscores_
 
 **double underscores**
 
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
 This paragraph has some `code` in it.
 
-    This paragraph has some `code` in it.
-
 ![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
