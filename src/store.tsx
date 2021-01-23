@@ -12,11 +12,6 @@ export default function makeStore<State, Action>(
   const StoreContext = createContext(initialState);
   const DispatchContext = createContext(null);
 
-  // try {
-  //   initialState =
-  //     (JSON.parse(localStorage.getItem(key)) as State) || initialState;
-  // } catch {}
-
   const reducer = (state: State, action: Action) => {
     const newState = userReducer(state, action);
     localStorage.setItem(key, JSON.stringify(newState));
