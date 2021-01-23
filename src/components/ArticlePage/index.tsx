@@ -43,7 +43,7 @@ export default function ArticlePageComponent({ article }: Props) {
       </Box>
       <Box
         style={{
-          width: "200px",
+          width: "500px",
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
