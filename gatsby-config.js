@@ -55,7 +55,7 @@ module.exports = {
       options: {
         name: "SSC TIMES",
         short_name: "SSC TIMES",
-        start_url: "/index.html",
+        start_url: "/",
         background_color: "#000",
         theme_color: "#000",
         display: "standalone",
@@ -65,7 +65,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-offline",
       options: {
-        precachePages: ["/*", "/", "/404"],
+        precachePages: ["/"],
       },
     },
   ],
