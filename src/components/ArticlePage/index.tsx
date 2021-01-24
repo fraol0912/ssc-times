@@ -14,6 +14,7 @@ const useStyles = makeStyles((theme: Theme) =>
       color: theme.palette.getContrastText(lightGreen[500]),
       backgroundColor: lightGreen[500],
       margin: theme.spacing(1),
+      display: "inline-block",
     },
   })
 );
@@ -41,14 +42,7 @@ export default function ArticlePageComponent({ article }: Props) {
           {article.title}
         </Typography>
       </Box>
-      <Box
-        style={{
-          width: "30%",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "space-between",
-        }}
-      >
+      <Box style={{ display: "flex" }}>
         <Avatar
           alt={article.author}
           src={article.authorPic}
@@ -59,8 +53,12 @@ export default function ArticlePageComponent({ article }: Props) {
             .map(word => word[0])
             .join("")}
         </Avatar>
-        <p>by</p>
-        <strong id="article_author">{article.author}</strong>
+        <Typography style={{ display: "inline-block" }}>
+          <p style={{ display: "inline-block", marginRight: 10 }}>by</p>
+          <strong id="article_author" style={{ display: "inline-block" }}>
+            {article.author}
+          </strong>
+        </Typography>
       </Box>
       <Container maxWidth="lg">
         <Box
