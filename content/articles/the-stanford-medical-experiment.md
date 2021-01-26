@@ -9,7 +9,7 @@ description: The Stanford prison experiment conducted by Stanford University
   had responded to a classified ad in a newspaper that was in quest of people
   that were willing to participate in a 2 weeks long prison psychology
   experiment with a generous daily wedge.
-author: Unknown
+author: Nuhamin Kifle
 authorPic: /standford.jpeg
 ---
 The Stanford prison experiment conducted by Stanford University psychology professor Philip Zimbardo included 18 participants,all-male, who had responded to a classified ad in a newspaper that was in quest of people that were willing to participate in a 2 weeks long prison psychology experiment with a generous daily wedge. The participants were randomly classified into two groups 9 "prisoners" and 9 "guards " besides the "guards" there was a prison "staff" which consisted of professor Philip Zimbardo and his students. For the experiment professor, Philip Zimbardo built a three-cell mock “Stanford County Jail” in the basement of the university’s psychology building. Experiment planned to measure the effect of role-playing, labeling, and social expectations on behavior over a period of two weeks.\
