@@ -24,6 +24,10 @@ const useStyles = makeStyles((theme: Theme) =>
 export default function ArticleList({ articles, tag }: Props) {
   const classes = useStyles();
 
+  const filteredArticles = articles.filter(
+    article => article.tag.toLowerCase() === tag.toLowerCase()
+  );
+
   return (
     <div
       role="tabpanel"
@@ -32,13 +36,11 @@ export default function ArticleList({ articles, tag }: Props) {
       className={classes.root}
     >
       <Grid container spacing={5}>
-        {articles
-          .filter(article => article.tag.toLowerCase() === tag.toLowerCase())
-          .map(article => (
-            <Grid item xs={12} sm={6} md={4} key={article.id}>
-              <ArticleCard article={article} />
-            </Grid>
-          ))}
+        {filteredArticles.map(article => (
+          <Grid item xs={12} sm={6} md={4} key={article.id}>
+            <ArticleCard article={article} />
+          </Grid>
+        ))}
       </Grid>
     </div>
   );

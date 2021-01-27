@@ -63,7 +63,8 @@ export default function ArticleGrid(): JSX.Element {
 
   const { tab } = useLayoutStore();
 
-  const tag = articles.map(article => article.tag)[tab];
+  const tags = [...new Set<string>(articles.map(article => article.tag))];
+  const tag = tags[tab];
 
   useEffect(() => {
     const articles = data.allMarkdownRemark.edges.map(({ node }) => {
