@@ -18,15 +18,9 @@ description: "From the highly acclaimed #1 best selling authors, Kirubel and
 author: Lidya Gebretsadik and kirubel Girma
 authorPic: /photo_2021-01-30_14-20-39.jpg
 ---
-\    ***The Stick-men***
+  ***The Stick-men***
 
- "I'm not that hungry dad" Filimon said,sitting across his father. He and his family were eating at his aunt's restaurant as they always do on epiphany. It was a family tradition.
-
-       "you barley had a bite! " said his father mid chew."This is your dinner, you need to eat something "he swallowed.
-
-"I could eat a samosas.." the boy suggested. "well they don't serve that here now, do they?" his father replied.
-
-  "I know a vendor who sells samosas down by the church" his aunt said as she served their drinks with a clank. She always did the serving when it's them. "Go get yourself some, hun" she smiled sliding him a 20. That was the last time he saw Rosa smile. "I want to go too!" shrieked his 9 year old little sister beside him. Betty was never separated from her brother. "Now now,you both know it's not good for..." "Leave them be, Alem" his wife interrupted "Go on you two.. And be quick about it."
+ "I'm not that hungry dad" Filimon said,sitting across his father. He and his family were eating at his aunt's restaurant as they always do on epiphany. It was a family tradition. "You barley had a bite! " said his father mid chew."This is your dinner, you need to eat something "he swallowed."I could eat a samosas.." the boy suggested. "well they don't serve that here now, do they?" his father replied. "I know a vendor who sells samosas down by the church" his aunt said as she served their drinks with a clank. She always did the serving when it's them. "Go get yourself some, hun" she smiled sliding him a 20. That was the last time he saw Rosa smile. "I want to go too!" shrieked his 9 year old little sister beside him. Betty was never separated from her brother. "Now now,you both know it's not good for..." "Leave them be, Alem" his wife interrupted "Go on you two.. And be quick about it."
 
 Walking to the church, Filimon had to make a few stops as his sister loved her reflection. She would pause when they get near a building, adjust her dress, make faces at her brother's twin and keep on skipping. When she stopped for the 6th time, he could see a group of men chanting and singing behind them. They had their sticks as usual but something felt different this time. Were they this many last year? He saw a glimmer of silver at one of the men's belt as it shone against the setting sun. He turned to examine it better but stopped as he felt his sister tug at him. "samosas!!" she pointed.
 
@@ -34,7 +28,7 @@ Walking to the church, Filimon had to make a few stops as his sister loved her r
 
 Pain. Blood. Silence.
 
-"wake up, Filimon", a familiar whisper "wake up". He tried, he really did. "wake up!" the voice was even more demanding now. He opened his eyes and everything came back in a second. He heard guns and his head throbbed with every shot. He rubbed his temple and lowered bloody palms. A large bloodied rock sat in front of him. That must've done the damage. BANG! Beti... . He tried to stand up and fell back down, his leg was in pain. It was trampled over by the crowd. Bang! He heaved himself up and searched frantically for his sister. "Beti!" he screamed into the chaos. BANG! "RUN!" said the voice, it was his aunt's voice in his head. He did. Everyone did. He dragged his left foot across the pavement and limped as fast as he could. He couldn't have been unconscious for more than two minutes. The last thing he remembered before going down, hit by the still flying rocks everywhere, was his sister being buried in the crowd. Pushed off by the shifting mass.
+"Wake up, Filimon", a familiar whisper "wake up". He tried, he really did. "wake up!" the voice was even more demanding now. He opened his eyes and everything came back in a second. He heard guns and his head throbbed with every shot. He rubbed his temple and lowered bloody palms. A large bloodied rock sat in front of him. That must've done the damage. BANG! Beti... . He tried to stand up and fell back down, his leg was in pain. It was trampled over by the crowd. Bang! He heaved himself up and searched frantically for his sister. "Beti!" he screamed into the chaos. BANG! "RUN!" said the voice, it was his aunt's voice in his head. He did. Everyone did. He dragged his left foot across the pavement and limped as fast as he could. He couldn't have been unconscious for more than two minutes. The last thing he remembered before going down, hit by the still flying rocks everywhere, was his sister being buried in the crowd. Pushed off by the shifting mass.
 
 He used the darkened corners to hide himself as the men he saw on his way to the church, the men with the sticks, smash in people's heads. Disembody heads from necks. Blood splattered all over the street. There were few policemen to guard the streets in this small secluded town, and a holiday that needed a gathering was great for a mass murder. A mass murder as this one. Filimon would have been frozen by terror and slumped to the ground if it were not for the incomparable urge of finding his sister. She was more important than anything.
 
@@ -67,8 +61,6 @@ The boy wailed into his father's arms.
      His father was already crouched behind one of the upturned tables, pointing a gun from the top of the stairs with a well trained manner. The footsteps reached the bottom of the stairs, halted for a moment, then continued climbing up. Filimon slowly went to his dad and crouched beside him. The rest of the few people in the room have  already taken hiding spots very stealthily as if this was something they have been practicing for. His mother was still sitting in the far corner, well-hidden but unaware of any danger. Filimon prayed the ones outside won't be drawn in by the gunfire sound.
 
      They saw the head first, wrapped around by the bandanna most of the murderers were wearing. There was a smile plastered to his face; his dad shot and the man had a hole for an eye now. The body fell down the stairs and made a dull thump.
-
- 
 
                                                                 \* \* \* \* \* \*
 
