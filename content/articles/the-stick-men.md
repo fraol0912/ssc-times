@@ -4,10 +4,10 @@ title: The Stick-men
 image: /photo_2021-01-30_14-20-39.jpg
 imageAlt: Image Source- mirror.co.uk
 date: 2021-01-30T11:26:00.542Z
-description: "Article description:     \"From the highly acclaimed #1 best
-  selling authors, Kirubel and Lidya, SSC Times brings you a new international
-  sensation.    \"Great!! Master story tellers\"              _Los Angeles Times
-  \"Absolutely terrific!!\"              _New York times \"Yelele gerami
+description: "From the highly acclaimed #1 best selling authors, Kirubel and
+  Lidya, SSC Times brings you a new international sensation.    \"Great!! Master
+  story tellers\"              _Los Angeles Times \"Absolutely
+  terrific!!\"              _New York times \"Yelele gerami
   new\"              _Adis guday, A.A  Imagine Epiphany. Imagine the huge crowd.
   Then try imagining a national chaos on that day. On a day when millions are
   out of their home. What would happen if a day of joy turned into a
