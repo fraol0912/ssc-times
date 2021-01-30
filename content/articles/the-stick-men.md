@@ -140,4 +140,4 @@ He turned toward her and kneeled down. "But I know somewhere will be safe, and w
 
 They would walk on, leaving fire and death behind them.
 
-They would go on, into fire and death.
+They would go on, into fire and into death.
