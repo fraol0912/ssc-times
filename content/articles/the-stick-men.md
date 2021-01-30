@@ -1,5 +1,5 @@
 ---
-tag: "Image Source: mirror.co.uk"
+tag: Litrature
 title: The Stick-men
 image: /photo_2021-01-30_14-20-39.jpg
 imageAlt: Image Source- mirror.co.uk
