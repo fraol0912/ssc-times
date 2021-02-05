@@ -1,5 +1,5 @@
 ---
-tag: "Literature "
+tag: Litrature
 title: Face it
 image: /poster_2021-01-25-063043~3.png
 imageAlt: "Hidden "
