@@ -1,5 +1,5 @@
 ---
-tag: Science
+tag: science
 title: How Small Can You Make a Car?
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nanocar2.png/525px-Nanocar2.png
 imageAlt: A nanocar that can move when pushed but has no motor.
