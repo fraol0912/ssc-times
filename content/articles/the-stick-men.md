@@ -18,7 +18,7 @@ description: "From the highly acclaimed #1 best selling authors, Kirubel and
 author: Lidya Gebretsadik and kirubel Girma
 authorPic: /photo_2021-01-30_14-20-39.jpg
 ---
-\    ***The Stick-men***
+***The Stick-men***
 
  "I'm not that hungry dad" Filimon said,sitting across his father. He and his family were eating at his aunt's restaurant as they always do on epiphany. It was a family tradition. "You barley had a bite! " said his father mid chew."This is your dinner, you need to eat something "he swallowed."I could eat a samosas.." the boy suggested. "well they don't serve that here now, do they?" his father replied. "I know a vendor who sells samosas down by the church" his aunt said as she served their drinks with a clank. She always did the serving when it's them. "Go get yourself some, hun" she smiled sliding him a 20. That was the last time he saw Rosa smile. "I want to go too!" shrieked his 9 year old little sister beside him. Betty was never separated from her brother. "Now now,you both know it's not good for..." "Leave them be, Alem" his wife interrupted "Go on you two.. And be quick about it."
 
